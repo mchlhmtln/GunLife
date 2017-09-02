@@ -1,0 +1,11 @@
+# basic options
+title: MDH Arms
+author: Mike Ham
+email: mchl.hmltn@gmail.com
+
+twitter_username: mchlhmltn
+
+
+# Build settings
+markdown: kramdown
+theme: minima
